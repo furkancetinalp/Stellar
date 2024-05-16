@@ -21,5 +21,3 @@ lto = true
 [profile.release-with-logs]
 inherits = "release"
 debug-assertions = true
-
-# Bu dosya birden çok soroban projesini birlikte çalıştırmak için oluşturulmuş standart bir ayardır.
